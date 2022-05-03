@@ -1,0 +1,5 @@
+# Install pywhatkit - python -m install pywhatkit
+# Import pywhatkit (line 4)
+# Send a whatsapp message to a specified number at a specified time (line 5)
+import pywhatkit
+pywhatkit.sendwhatmsg('+2348172573305', 'Bot!', 17, 39,)
